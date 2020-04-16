@@ -1,0 +1,59 @@
+{
+  "devFiles": [],
+  "lowPriorityFiles": [
+    "static/C9M3gLKSkT5QPrWG4ck96/_buildManifest.js",
+    "static/C9M3gLKSkT5QPrWG4ck96/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/chunks/edacba374ebbc653dfe0786de7194455747566a7.2b6c6f8cd983051c6ff1.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-b6cccdf50789f19d2e76.js"
+    ],
+    "/blog": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/chunks/edacba374ebbc653dfe0786de7194455747566a7.2b6c6f8cd983051c6ff1.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/chunks/edacba374ebbc653dfe0786de7194455747566a7.2b6c6f8cd983051c6ff1.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ],
+    "/p/[id]": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/chunks/edacba374ebbc653dfe0786de7194455747566a7.2b6c6f8cd983051c6ff1.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ],
+    "/single": [
+      "static/runtime/webpack-b65cab0b00afd201cbda.js",
+      "static/chunks/framework.98c1b221acb34aa9927b.js",
+      "static/chunks/commons.d3a5cad3addbd9214ed4.js",
+      "static/chunks/edacba374ebbc653dfe0786de7194455747566a7.2b6c6f8cd983051c6ff1.js",
+      "static/runtime/main-48166c9d9d3fd61cbc12.js"
+    ]
+  }
+}
